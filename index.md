@@ -8,6 +8,8 @@ We are very excited to announce the 20th Bay Area Population Genomics (BAPG) Con
 
 Thank you to our sponsors [Ancestry](https://www.ancestry.com), [Variant Bio](https://www.variantbio.com), [D2G Oncology](https://www.d2g-oncology.com), and [Personalis](https://www.personalis.com) for helping us put on this great conference!
 
+![image](https://user-images.githubusercontent.com/40303683/232860425-b9d7f5e2-9a91-4f39-9713-37a874c145d8.png)
+
 ### Information
 
 **Location**: [Stanley Hall, UC Berkeley](https://www.google.com/maps/place/Stanley+Hall,+Berkeley,+CA+94709/@37.8739817,-122.2583154,17z/data=!3m1!4b1!4m5!3m4!1s0x80857c2490071f53:0x7da6b1a108bc4e0!8m2!3d37.8739775!4d-122.2561267)
