@@ -1,14 +1,10 @@
----
-title: UC Berkeley, 10/15/22
----
-
-## UC Berkeley, 10/15/22
+# UC Berkeley, 10/15/22
 
 We are very excited to announce the 20th Bay Area Population Genomics (BAPG) Conference at UC Berkeley! Thank you to everyone who has signed up to present either a talk or a poster. We have posted the speakers, talk titles, and poster presenters on the schedule below.
 
 Thank you to our sponsors Ancestry, Variant Bio, D2G Oncology, and Personalis for helping us put on this great conference!
 
-### Information
+## Information
 
 **Location**: Stanley Hall, UC Berkeley
 
@@ -16,7 +12,7 @@ Thank you to our sponsors Ancestry, Variant Bio, D2G Oncology, and Personalis fo
 
 Transportation to UC Berkeley: For those planning on driving to Berkeley, visitor parking is available at a number of campus-owned parking lots. The closest ones to Stanley Hall will be the La Loma Parking Structure, the Lower Hearst Parking Structure, and the Foothill Lot. Visitor parking on the weekends is $2 per hour. See Berkeley's visitor parking page for more details. Please follow all posted signs and directions for campus parking lots, which all look something like this. For those looking to take public transportation, BART stops one block west of campus at the Downtown Berkeley station. From there, it is a very scenic walk up through campus to Stanley.
 
-### Schedule
+## Schedule
 
 **8:30-9:30am**: Check-in and breakfast, atrium of Stanley Hall
 
