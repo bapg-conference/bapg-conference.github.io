@@ -1,4 +1,4 @@
-# BAPG 2022 - UC Berkeley, 10/15/22
+# UC Berkeley, 10/15/22
 
 We are very excited to announce the 20th Bay Area Population Genomics (BAPG) Conference at UC Berkeley! Thank you to everyone who has signed up to present either a talk or a poster. We have posted the speakers, talk titles, and poster presenters on the schedule below.
 
