@@ -14,7 +14,7 @@ Thank you to our sponsors Ancestry, Variant Bio, D2G Oncology, and Personalis fo
 
 **Time**: 9:30am - 5pm, Saturday, October 15 (Breakfast and check-in begins at 8:30am)
 
-Transportation to UC Berkeley: For those planning on driving to Berkeley, visitor parking is available at a number of campus-owned parking lots. The closest ones to Stanley Hall will be the La Loma Parking Structure, the Lower Hearst Parking Structure, and the Foothill Lot. Visitor parking on the weekends is $2 per hour. See Berkeley's visitor parking page for more details. Please follow all posted signs and directions for campus parking lots, which all look something like this. For those looking to take public transportation, BART stops one block west of campus at the Downtown Berkeley station. From there, it is a very scenic walk up through campus to Stanley.
+**Transportation to UC Berkeley**: For those planning on driving to Berkeley, visitor parking is available at a number of campus-owned parking lots. The closest ones to Stanley Hall will be the La Loma Parking Structure, the Lower Hearst Parking Structure, and the Foothill Lot. Visitor parking on the weekends is $2 per hour. See Berkeley's visitor parking page for more details. Please follow all posted signs and directions for campus parking lots, which all look something like this. For those looking to take public transportation, BART stops one block west of campus at the Downtown Berkeley station. From there, it is a very scenic walk up through campus to Stanley.
 
 ### Schedule
 
