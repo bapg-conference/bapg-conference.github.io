@@ -1,1 +1,3 @@
-# BAPG testing
+# BAPG Conference
+
+This repository hosts the BAPG website through GitHub pages. If you want to update the website...
