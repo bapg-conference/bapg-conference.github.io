@@ -1,5 +1,5 @@
 ---
-title: BAPG 2022, UC Berkeley
+title: 2022
 ---
 
 ## UC Berkeley, 10/15/22
