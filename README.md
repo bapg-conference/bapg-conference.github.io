@@ -35,7 +35,8 @@ Transportation to UC Berkeley: For those planning on driving to Berkeley, visito
   * 1:45-2:00: Zhiru Liu, Good Lab, Stanford, "Dynamics of bacterial recombination in the human gut microbiome"
   * 2:00-2:15: Hakhamanesh Mostafavi, Pritchard Lab, Stanford, "Limited overlap of eQTLs and GWAS hits due to systematic differences in discovery"
   * 2:15-2:30: William Dewitt, Song Lab, UC Berkeley, "Evolutionary dynamics of antibody affinity maturation in replica germinal centers"
-  * 2:30-3:00 Keynote Talk Chuck Langley, UC Davis, "Haplotypes spanning the centromere proximal regions of Drosophila and humans"
+ 
+**2:30-3:00**: Keynote Talk Chuck Langley, UC Davis, "Haplotypes spanning the centromere proximal regions of Drosophila and humans"
 
 **3:00-5:00**: Poster Session and Happy Hour, Stanley Hall 1st Floor Atrium
   * Alexander Ioannidis - "Ancestry-specific methods in population genetics"
