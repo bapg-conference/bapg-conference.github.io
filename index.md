@@ -8,7 +8,11 @@ We are very excited to announce the 20th Bay Area Population Genomics (BAPG) Con
 
 Thank you to our sponsors [Ancestry](https://www.ancestry.com), [Variant Bio](https://www.variantbio.com), [D2G Oncology](https://www.d2g-oncology.com), and [Personalis](https://www.personalis.com) for helping us put on this great conference!
 
+<br>
+
 ![image](https://user-images.githubusercontent.com/40303683/232860425-b9d7f5e2-9a91-4f39-9713-37a874c145d8.png)
+
+<br>
 
 ### Information
 
