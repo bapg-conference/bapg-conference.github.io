@@ -1,3 +1,3 @@
-# BAPG Conference
+# Bay Area Population Genetics Conference
 
 This repository hosts the BAPG website through GitHub pages. If you want to update the website...
