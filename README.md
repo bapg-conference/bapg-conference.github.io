@@ -9,6 +9,9 @@ This repository hosts the BAPG website through GitHub pages. Updates to the webs
 
 3. Save the information from the last conference by doing the following:
     - Click "index.md" and copy the contents by clicking the symbol with two squares next to the trashcan.
+
+    <img width="1285" alt="Screen Shot 2023-04-19 at 9 22 33 PM" src="https://user-images.githubusercontent.com/40303683/233257644-c9d0e86d-e51e-454a-b080-c7568686934a.png">
+
     - Click "bapg-conference.github.io" to return to the main repository, then enter the "previous" folder. There you should see Markdown files from previous conferences.
     - Click "Add file", "Create new file", name the file following the same naming convention (seasonYEAR) and paste the copied contents.
 4. Now, its time to edit the files with your conference information:
