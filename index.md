@@ -16,7 +16,7 @@ Welcome to the site for the 21st Bay Area Population Genomics (#BAPGXXI) Confere
 
 #### **9:30-10:30**: Talk Session 1 - Moderator: Brenna Henn, UC Davis
 * 9:30-9:50: **Tracking evolution in response to anthropogenic chemical pollution in Drosophila** - Marianthi Karageorgi, Stanford University post doc, Petrov lab, [@m_karageorgi](https://twitter.com/m_karageorgi)
-* 9:50-10:10: **Scalable, efficient, and full posterior sampling of genome-wide genealogies** - Yun Deng, UC Berkeley graduate student, Song lab and Nielsen lab, [@YunDeng5]((https://twitter.com/YunDeng5))
+* 9:50-10:10: **Scalable, efficient, and full posterior sampling of genome-wide genealogies** - Yun Deng, UC Berkeley graduate student, Song lab and Nielsen lab, [@YunDeng5](https://twitter.com/YunDeng5)
 * 10:10-10:30: **Dissecting the causes and consequences of the expression level-evolutionary rate anticorrelation** - David Alvarez-Ponce, University of Nevada, Reno, Professor
 
 #### **10:30-11:10**: Coffee Break 
