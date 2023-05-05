@@ -12,31 +12,31 @@ Welcome to the site for the 21st Bay Area Population Genomics (#BAPGXXI) Confere
 
 #### **8:30-9:25**: Check-in and continental breakfast 
 
-#### 9:25-9:30: Welcome Remarks
+#### **9:25-9:30**: Welcome Remarks
 
-#### 9:30-10:30: Talk Session 1 - Moderator: Brenna Henn, UC Davis
+#### **9:30-10:30**: Talk Session 1 - Moderator: Brenna Henn, UC Davis
 * 9:30-9:50: **Tracking evolution in response to anthropogenic chemical pollution in Drosophila** - Marianthi Karageorgi, Stanford University post doc, Petrov lab, [@m_karageorgi](https://twitter.com/m_karageorgi)
 * 9:50-10:10: **Scalable, efficient, and full posterior sampling of genome-wide genealogies** - Yun Deng, UC Berkeley graduate student, Song lab and Nielsen lab, [@YunDeng5]((https://twitter.com/YunDeng5))
 * 10:10-10:30: **Dissecting the causes and consequences of the expression level-evolutionary rate anticorrelation** - David Alvarez-Ponce, University of Nevada, Reno, Professor
 
-#### 10:30-11:10: Coffee Break 
+#### **10:30-11:10**: Coffee Break 
 
-#### 11:10-12:30: Talk Session 2 - Moderator: Alyssa Phillips, UC Davis
+#### **11:10-12:30**: Talk Session 2 - Moderator: Alyssa Phillips, UC Davis
 * 11:10-11:30: **Conservation Genomics of Red Abalone: Population Structure and Local Adaptation** - Joanna Griffiths, UC Davis post doc, Whitehead lab and Fangue lab, [@JoGriffiths61](https://twitter.com/JoGriffiths61)
 * 11:30-11:50: **Bayesian inference of admixture graphs on Native American and Arctic populations** - Andrew Vaughn, UC Berkeley graduate student, Nielsen lab, [@andrewhvaughn](https://twitter.com/andrewhvaughn)
 * 11:50-12:10: **Linkage equilibrium between rare alleles** - Anastasia Lyulina, Stanford University graduate student, Good lab, [@nastialyulina](https://twitter.com/nastialyulina)
 * 12:10-12:30: **Identification and characterization of calcium sensing receptor variants associated with autosomal dominant hypocalcemia type 1 using exome sequencing data from the UK Biobank** - Jeremy Chang, BridgeBio Pharma, [@jbychang](https://twitter.com/jbychang)
 
-#### 12:30-1:30: Lunch
+#### **12:30-1:30**: Lunch
 
-#### 1:30-2:00: Keynote Talk: Balancing selection on HLA loci - Monty Slatkin, UC Berkeley
+#### **1:30-2:00**: Keynote Talk: Balancing selection on HLA loci - Monty Slatkin, UC Berkeley
 
-#### 2:00-3:00: Talk Session 3 - Moderator: Jeff Groh, UC Davis
+#### **2:00-3:00**: Talk Session 3 - Moderator: Jeff Groh, UC Davis
 * 2:00-2:20: **Archaic introgression into present-day humans: Insights into human history and biology** - Lauritz Skov, UC Berkeley, post doc, Moorjani lab, [@Skovlaurits](https://twitter.com/Skovlaurits)
 * 2:20-2:40: **Harnessing genomic techniques to inform conservation management of the Lahontan Cutthroat trout (*Oncorhynchus clarkii henshawi*)** - Alana Luzzio, UC Davis, graduate student, Genomic Variation Laboratory, [@Alana-michaela](https://twitter.com/Alana-michaela)
 * 2:40-3:00: **Precise inference of natural selection with a comparative population genomics approach in Drosophila** - Bernard Kim, Stanford University, post doc, Petrov lab, [@Bernard_Y_Kim](https://twitter.com/Bernard_Y_Kim)
 
-#### 3:00-4:30: Poster session 
+#### **3:00-4:30**: Poster session 
 * **Intraspecific variation is prevalent at loci controlling divergent traits that contribute to reproductive isolation between species of Aquilegia** - Evangeline Ballerini, Sacramento State, Professor, [@anjiballerini](https://twitter.com/anjiballerini)
 * **Rapid and reversible genetic turnover in antibiotic treated human gut microbiomes is driven by population replacements** - Sophie Jean Walton, Stanford University, graduate student, Petrov lab and Good lab, [@sophiejwalton](https://twitter.com/sophiejwalton)
 * **The evolutionary history of 17q21.31 structural haplotypes in ancient and modern humans** - Samvardhini Sridharan, UC Berkeley, graduate student, Sudmant Lab, [@ssamvardhini](https://twitter.com/ssamvardhini)
