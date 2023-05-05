@@ -25,7 +25,7 @@ Welcome to the site for the 21st Bay Area Population Genomics (#BAPGXXI) Confere
 * 11:10-11:30: **Conservation Genomics of Red Abalone: Population Structure and Local Adaptation** - Joanna Griffiths, UC Davis post doc, Whitehead lab and Fangue lab, [@JoGriffiths61](https://twitter.com/JoGriffiths61)
 * 11:30-11:50: **Bayesian inference of admixture graphs on Native American and Arctic populations** - Andrew Vaughn, UC Berkeley graduate student, Nielsen lab, [@andrewhvaughn](https://twitter.com/andrewhvaughn)
 * 11:50-12:10: **Linkage equilibrium between rare alleles** - Anastasia Lyulina, Stanford University graduate student, Good lab, [@nastialyulina](https://twitter.com/nastialyulina)
-* 12:10-12:30: **Identification and characterization of calcium sensing receptor variants associated with autosomal dominant hypocalcemia type 1 using exome sequencing data from the UK Biobank** - Jeremy Chang, BridgeBio Pharma, [@jbychang](https://twitter.com/jbychang)
+* 12:10-12:30: **Identification and characterization of calcium sensing receptor variants associated with autosomal dominant hypocalcemia type 1 using exome sequencing data from the UK Biobank** - Jeremy Chang, BridgeBio Pharma
 
 #### **12:30-1:30**: Lunch
 
@@ -34,7 +34,7 @@ Welcome to the site for the 21st Bay Area Population Genomics (#BAPGXXI) Confere
 
 #### **2:00-3:00**: Talk Session 3 - Moderator: Jeff Groh, UC Davis
 * 2:00-2:20: **Archaic introgression into present-day humans: Insights into human history and biology** - Lauritz Skov, UC Berkeley, post doc, Moorjani lab, [@Skovlaurits](https://twitter.com/Skovlaurits)
-* 2:20-2:40: **Harnessing genomic techniques to inform conservation management of the Lahontan Cutthroat trout (*Oncorhynchus clarkii henshawi*)** - Alana Luzzio, UC Davis, graduate student, Genomic Variation Laboratory, [@alana-michaela](https://twitter.com/alana-michaela)
+* 2:20-2:40: **Harnessing genomic techniques to inform conservation management of the Lahontan Cutthroat trout (*Oncorhynchus clarkii henshawi*)** - Alana Luzzio, UC Davis, graduate student, Genomic Variation Laboratory, [@alana_michaela](https://twitter.com/alana_michaela)
 * 2:40-3:00: **Precise inference of natural selection with a comparative population genomics approach in Drosophila** - Bernard Kim, Stanford University, post doc, Petrov lab, [@Bernard_Y_Kim](https://twitter.com/Bernard_Y_Kim)
 
 #### **3:00-4:30**: Poster session 
@@ -54,5 +54,5 @@ Welcome to the site for the 21st Bay Area Population Genomics (#BAPGXXI) Confere
 * **Sampling Selection and Clone Correction Influence Evolutionary Model Selection in Fungi** - Guy Robinson, UC Davis, graduate student, Cook lab, [@fermentedfungi](https://twitter.com/fermentedfungi)
 * **Genetic Epidemiology of Tuberculosis in South Africa** - Oshiomah Oyageshio, UC Davis, graduate student, Henn lab, [@OshiomahO](https://twitter.com/OshiomahO)
 * **Standard global ancestry correction reduces discovery power for differentiated variants in admixed populations** - Gillian Meeks, UC Davis, graduate student, Henn lab
-* **RatePlacer: an efficient method for molecular dating of ancient sediment samples** - Maya Lemmon-Kishi, UC Berkeley, graduate student, Nielsen lab
+* **RatePlacer: an efficient method for molecular dating of ancient sediment samples** - Maya Lemmon-Kishi, UC Berkeley, graduate student, Nielsen lab, [@LemmonQuiche](https://twitter.com/LemmonQuiche)
 * **Estimating Genome-Wide Mutation Rate in South Asians Using Identity by Descent Segment Based Method** - Nathan Cramer, UC Berkeley, graduate student, Moorjani lab
