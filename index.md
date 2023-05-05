@@ -29,7 +29,8 @@ Welcome to the site for the 21st Bay Area Population Genomics (#BAPGXXI) Confere
 
 #### **12:30-1:30**: Lunch
 
-#### **1:30-2:00**: Keynote Talk: Balancing selection on HLA loci - Monty Slatkin, UC Berkeley
+#### **1:30-2:00**: Keynote Talk
+* **Balancing selection on HLA loci** - Monty Slatkin, UC Berkeley
 
 #### **2:00-3:00**: Talk Session 3 - Moderator: Jeff Groh, UC Davis
 * 2:00-2:20: **Archaic introgression into present-day humans: Insights into human history and biology** - Lauritz Skov, UC Berkeley, post doc, Moorjani lab, [@Skovlaurits](https://twitter.com/Skovlaurits)
