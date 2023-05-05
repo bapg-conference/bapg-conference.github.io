@@ -52,7 +52,7 @@ Welcome to the site for the 21st Bay Area Population Genomics (#BAPGXXI) Confere
 * **Maintenance of genetic diversity in the herbivorous leaf-mining drosophilid Scaptomyza flava** - Diler Haji, UC Berkeley, graduate student, Whiteman lab, [@dlrhj](https://twitter.com/dlrhj)
 * **An Efficient Exact Algorithm for Identifying Hybrids Using Population Genomic Sequences** - Sneha Chakraborty, UC Davis, post doc, Rannala lab
 * **Sampling Selection and Clone Correction Influence Evolutionary Model Selection in Fungi** - Guy Robinson, UC Davis, graduate student, Cook lab, [@fermentedfungi](https://twitter.com/fermentedfungi)
-* **Genetic Epidemiology of Tuberculosis in South Africa** - Oshiomah Oyageshio, UC Davis, graduate student, Henn lab, [@oshiomah](https://twitter.com/oshiomah)
+* **Genetic Epidemiology of Tuberculosis in South Africa** - Oshiomah Oyageshio, UC Davis, graduate student, Henn lab, [@OshiomahO](https://twitter.com/OshiomahO)
 * **Standard global ancestry correction reduces discovery power for differentiated variants in admixed populations** - Gillian Meeks, UC Davis, graduate student, Henn lab
 * **RatePlacer: an efficient method for molecular dating of ancient sediment samples** - Maya Lemmon-Kishi, UC Berkeley, graduate student, Nielsen lab
 * **Estimating Genome-Wide Mutation Rate in South Asians Using Identity by Descent Segment Based Method** - Nathan Cramer, UC Berkeley, graduate student, Moorjani lab
