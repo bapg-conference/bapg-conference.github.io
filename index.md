@@ -10,7 +10,7 @@ Welcome to the site for the 21st Bay Area Population Genomics (#BAPGXXI) Confere
 
 ### Schedule
 
-#### 8:30-9:25: Check-in and continental breakfast 
+#### **8:30-9:25**: Check-in and continental breakfast 
 
 #### 9:25-9:30: Welcome Remarks
 
