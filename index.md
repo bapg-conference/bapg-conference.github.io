@@ -8,7 +8,7 @@ title: BAPG Spring 2023
     }
     .sponsor img {
         width: 100%;
-        max-width: 600px;
+        max-width: 400px;
     }
 </style>
 
