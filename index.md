@@ -10,7 +10,7 @@ Thank you to [Ancestry](https://www.ancestry.com) for helping us put on this gre
 
 <br>
 
-![image](/images/ancestry_logo.png)
+![image](/images/ancestry_logo.png){: width=600}
 
 <br>
 
@@ -61,4 +61,4 @@ Thank you to [Ancestry](https://www.ancestry.com) for helping us put on this gre
 * **Standard global ancestry correction reduces discovery power for differentiated variants in admixed populations** - Gillian Meeks, UC Davis, graduate student, Henn lab
 * **RatePlacer: an efficient method for molecular dating of ancient sediment samples** - Maya Lemmon-Kishi, UC Berkeley, graduate student, Nielsen lab, [@LemmonQuiche](https://twitter.com/LemmonQuiche)
 * **Estimating Genome-Wide Mutation Rate in South Asians Using Identity by Descent Segment Based Method** - Nathan Cramer, UC Berkeley, graduate student, Moorjani lab
-* **Genetic signatures from the Dutch East Indian slave trade in southern Africa** - , UC Davis, graduate student, Henn lab, [@dralhindi](https://twitter.com/dralhindi)
+* **Genetic signatures from the Dutch East Indian slave trade in southern Africa** - Dana Al-Hindi, UC Davis, graduate student, Henn lab, [@dralhindi](https://twitter.com/dralhindi)
