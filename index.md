@@ -18,7 +18,7 @@ Welcome to the site for the 21st Bay Area Population Genomics (#BAPGXXI) Confere
 
 Thank you to [Ancestry](https://www.ancestry.com) for helping us put on this great conference!
 
-{.sponsor}
+{:.sponsor}
 ![image](/images/ancestry_logo.png)
 
 ### Schedule
