@@ -4,7 +4,8 @@ title: BAPG Spring 2023
 
 <style>
     .sponsor {
-        text-align: center;
+        display: flex;
+        justify-content: 
     }
     .sponsor img {
         width: 100%;
@@ -16,10 +17,10 @@ title: BAPG Spring 2023
 
 Welcome to the site for the 21st Bay Area Population Genomics (#BAPGXXI) Conference at UC Davis! The conference will be held May 20, 2023 on UC Davis Campus in the Atrium and Room 1322 of [Storer Hall](https://goo.gl/maps/mysWPEEg7cZozpnYA). Parking is free on campus on weekends. The closest parking structure is the [Pavilion Structure](https://goo.gl/maps/L6eDeHQgQxpu5TEcA). Registration is free (but required) and will include coffee/breakfast and lunch. **Registration and talk/poster submissions now closed.**
 
-Thank you to [Ancestry](https://www.ancestry.com) for helping us put on this great conference!
+Thank you to [Ancestry](https://www.ancestry.com), [BridgeBio Pharma](https://bridgebio.com), and [Delfi Diagnostics](https://delfidiagnostics.com) for helping us put on this great conference!
 
 {:.sponsor}
-![image](/images/ancestry_logo.png)
+![Sponsors - Ancestry, BridgeBio Pharma, and Delfi Diagnostics](/images/sponsors.jpg)
 
 ### Schedule
 
