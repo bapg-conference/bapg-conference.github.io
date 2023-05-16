@@ -4,8 +4,7 @@ title: BAPG Spring 2023
 
 <style>
     .sponsor {
-        display: flex;
-        justify-content: 
+        text-align: center;
     }
     .sponsor img {
         width: 100%;
