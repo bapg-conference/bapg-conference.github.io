@@ -28,7 +28,7 @@ Thank you to [Ancestry](https://www.ancestry.com), [BridgeBio Pharma](https://br
 #### **9:25-9:30**: Welcome Remarks
 
 #### **9:30-10:30**: Talk Session 1 - Moderator: Maddie Armstrong, UC Davis
-* 9:30-9:50: **Tracking evolution in response to anthropogenic chemical pollution in Drosophila** - Marianthi Karageorgi, Stanford University post doc, Petrov lab, [@m_karageorgi](https://twitter.com/m_karageorgi)
+* 9:30-9:50: **Tracking evolution in response to anthropogenic chemical pollution in Drosophila** - Marianna Karageorgi, Stanford University post doc, Petrov lab, [@m_karageorgi](https://twitter.com/m_karageorgi)
 * 9:50-10:10: **Scalable, efficient, and full posterior sampling of genome-wide genealogies** - Yun Deng, UC Berkeley graduate student, Song lab and Nielsen lab, [@YunDeng5](https://twitter.com/YunDeng5)
 * 10:10-10:30: **Dissecting the causes and consequences of the expression level-evolutionary rate anticorrelation** - David Alvarez-Ponce, University of Nevada, Reno, Professor
 
@@ -46,7 +46,7 @@ Thank you to [Ancestry](https://www.ancestry.com), [BridgeBio Pharma](https://br
 * **Balancing selection on HLA loci** - Monty Slatkin, UC Berkeley
 
 #### **2:00-3:00**: Talk Session 3 - Moderator: Jeff Groh, UC Davis
-* 2:00-2:20: **Archaic introgression into present-day humans: Insights into human history and biology** - Lauritz Skov, UC Berkeley, post doc, Moorjani lab, [@Skovlaurits](https://twitter.com/Skovlaurits)
+* 2:00-2:20: **Archaic introgression into present-day humans: Insights into human history and biology** - Laurits Skov, UC Berkeley, post doc, Moorjani lab, [@Skovlaurits](https://twitter.com/Skovlaurits)
 * 2:20-2:40: **Harnessing genomic techniques to inform conservation management of the Lahontan Cutthroat trout (*Oncorhynchus clarkii henshawi*)** - Alana Luzzio, UC Davis, graduate student, Genomic Variation Laboratory, [@alana_michaela](https://twitter.com/alana_michaela)
 * 2:40-3:00: **Precise inference of natural selection with a comparative population genomics approach in Drosophila** - Bernard Kim, Stanford University, post doc, Petrov lab, [@Bernard_Y_Kim](https://twitter.com/Bernard_Y_Kim)
 
