@@ -56,5 +56,6 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 * **Simple model with resistance acquisition and negative selection explains coexistence of resistant and susceptible strains** - Pleuni Pennings, SFSU
 * **The evolutionary history of 17q21.31 structural haplotypes in ancient and modern humans** Samvardhini Sridharan, UC Berkeley, Sudmant Lab
 * **Newly Sequenced Genomes Reveal Patterns of Gene Family Expansion in select Dragonflies (Odonata: Anisoptera)** Christopher Beatty, Stanford University
+* **How Old Is It: Molecular Dating for Ancient eDNA Samples** Maya Lemmon-Kishi, UC Berkeley, Nielsen Lab
 
 
