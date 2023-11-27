@@ -54,8 +54,11 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 * **Detecting Admixture Tracts From the Origin Population of the TCC>TTC Mutation “Europulse”** - Philippa Steinberg, University of Washington, Harris Lab
 * **Gene regulatory network structure affects the distribution of expression heritability** - Matthew Aguirre, Stanford University, Pritchard Lab
 * **Simple model with resistance acquisition and negative selection explains coexistence of resistant and susceptible strains** - Pleuni Pennings, SFSU
-* **The evolutionary history of 17q21.31 structural haplotypes in ancient and modern humans** Samvardhini Sridharan, UC Berkeley, Sudmant Lab
-* **Newly Sequenced Genomes Reveal Patterns of Gene Family Expansion in select Dragonflies (Odonata: Anisoptera)** Christopher Beatty, Stanford University
-* **How Old Is It: Molecular Dating for Ancient eDNA Samples** Maya Lemmon-Kishi, UC Berkeley, Nielsen Lab
+* **The evolutionary history of 17q21.31 structural haplotypes in ancient and modern humans** - Samvardhini Sridharan, UC Berkeley, Sudmant Lab
+* **Newly Sequenced Genomes Reveal Patterns of Gene Family Expansion in select Dragonflies (Odonata: Anisoptera)** - Christopher Beatty, Stanford University
+* **How Old Is It: Molecular Dating for Ancient eDNA Samples** - Maya Lemmon-Kishi, UC Berkeley, Nielsen Lab
+* **The dynamics of Pareto fronts underlying natural resource specialization in S. cerevisae** - Elisa Visher, Stanford University, Petrov Lab
+* **Navigating Climate Resilience: Genomic Strategies for Kelp Ecosystem Management and Restoration** - Roy Roberts, UCSC, Pinsky Lab
+* **The dynamics of accumulation of gametic segregation distorters in Arabidopsis** - Christopher Condon, UCSC 
 
 
