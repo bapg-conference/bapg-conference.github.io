@@ -1,70 +1,59 @@
 ---
-title: BAPG Spring 2023
+title: BAPG Fall 2023
 ---
 
-<style>
-    .sponsor {
-        text-align: center;
-    }
-    .sponsor img {
-        width: 100%;
-        max-width: 800px;
-    }
-</style>
+## Stanford, 12/02/2023
 
-## UC Davis, 05/20/2023
-
-Welcome to the site for the 21st Bay Area Population Genomics (#BAPGXXI) Conference at UC Davis! The conference will be held May 20, 2023 on UC Davis Campus in the Atrium and Room 1322 of [Storer Hall](https://goo.gl/maps/mysWPEEg7cZozpnYA). Parking is free on campus on weekends. The closest parking structure is the [Pavilion Structure](https://goo.gl/maps/L6eDeHQgQxpu5TEcA). Registration is free (but required) and will include coffee/breakfast and lunch. **Registration and talk/poster submissions now closed.**
-
-Thank you to [Ancestry](https://www.ancestry.com), [BridgeBio Pharma](https://bridgebio.com), [Delfi Diagnostics](https://delfidiagnostics.com), [Spatial Genomics](https://spatialgenomics.com), and the [UC Davis Center for Population Biology](https://cpb.ucdavis.edu) for sponsoring this conference!
-
-{:.sponsor}
-![Sponsors - Ancestry, BridgeBio Pharma, Delfi Diagnostics, Spatial Genomics, and UC Davis CPB](/images/sponsors.jpg)
+Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Conference at Stanford hosted by the Petrov Lab! The conference will be held on December 2, 2023 at the [Huang Engineering Center](https://maps.app.goo.gl/4kftR4cE132cnFxy9) on Stanford Campus. Parking is free on campus on weekends. The closest parking structure is the [Via Ortega Garage](https://maps.app.goo.gl/Rdwhap8ogo92LSqm6). Registration is free (but required) and will include coffee/breakfast and lunch. **Registration and talk/poster submissions now closed.**
 
 ### Schedule
 
-#### **8:30-9:25**: Check-in and continental breakfast 
+#### **8:30-8:55**: Check-in and breakfast
 
-#### **9:25-9:30**: Welcome Remarks
+#### **9:00-9:05**: Welcome Remarks
 
-#### **9:30-10:30**: Talk Session 1 - Moderator: Maddie Armstrong, UC Davis
-* 9:30-9:50: **Tracking evolution in response to anthropogenic chemical pollution in Drosophila** - Marianna Karageorgi, Stanford University post doc, Petrov lab, [@m_karageorgi](https://twitter.com/m_karageorgi)
-* 9:50-10:10: **Scalable, efficient, and full posterior sampling of genome-wide genealogies** - Yun Deng, UC Berkeley graduate student, Song lab and Nielsen lab, [@YunDeng5](https://twitter.com/YunDeng5)
-* 10:10-10:30: **Dissecting the causes and consequences of the expression level-evolutionary rate anticorrelation** - David Alvarez-Ponce, University of Nevada, Reno, Professor
+#### **9:05-10:25**: Talk Session 1 - Moderator: TBA
+* 9:05-9:25: **Challenges in ARG inference and applications: how to interpret and can we fix them?** - Yun Deng, UC Berkeley Graduate Student, Nielsen Lab and Song Lab
+* 9:25-9:45: **Leveraging ARGs for the estimation of selection coefficients and allele histories from ancient DNA** - Andrew Vaughn, UC Berkeley Graduate Student,Nielsen Lab
+* 9:45-10:05: **The effectiveness of selection drives the direction of protein evolution** - Hanon McShea, Stanford University, Graduate Student, Welander Lab
+* 10:05-10:25: **Covarying Levels of Water Pollution and Admixture in a Swordtail Fish Hybrid Zone** - Ben Moran, Stanford University, Graduate Student, Schumer Lab
 
-#### **10:30-11:10**: Coffee Break 
+#### **10:25-11:00**: Coffee Break 
 
-#### **11:10-12:30**: Talk Session 2 - Moderator: Alyssa Phillips, UC Davis
-* 11:10-11:30: **Conservation Genomics of Red Abalone: Population Structure and Local Adaptation** - Joanna Griffiths, UC Davis post doc, Whitehead lab and Fangue lab, [@JoGriffiths61](https://twitter.com/JoGriffiths61)
-* 11:30-11:50: **Bayesian inference of admixture graphs on Native American and Arctic populations** - Andrew Vaughn, UC Berkeley graduate student, Nielsen lab, [@andrewhvaughn](https://twitter.com/andrewhvaughn)
-* 11:50-12:10: **Linkage equilibrium between rare alleles** - Anastasia Lyulina, Stanford University graduate student, Good lab, [@nastialyulina](https://twitter.com/nastialyulina)
-* 12:10-12:30: **Identification and characterization of calcium sensing receptor variants associated with autosomal dominant hypocalcemia type 1 using exome sequencing data from the UK Biobank** - Jeremy Chang, BridgeBio Pharma
+#### **11:00-12:30**: Talk Session 2 - Moderator: TBA
+* 11:00-11:20: **The Genetic Architecture of Bronchopulmonary Dysplasia in Extremely Preterm Infants.** - Miguel Guardado, UCSF, Graduate Student, Hernandez Lab and Torgerson Lab
+* 11:20-11:40: **Archaic introgression into present-day humans: Insights into human history and biology** - Laurits Skov, UC Berkeley, Postdoc, Moorjani lab
+* 11:40-12:00: **High-resolution lineage tracking of within-host evolution and transmission of a prominent gut symbiont across ecological scales** - Daniel Wong, Stanford University, Graduate Student,Good Lab
+* 12:00-12:20: **Prolonged delays in human microbiota transmission after a controlled antibiotic perturbation** - Katherine Xue, Stanford University, Postdoc, Relman Lab and Petrov Lab
 
-#### **12:30-1:30**: Lunch
+#### **12:20-1:30**: Lunch
 
-#### **1:30-2:00**: Keynote Talk
-* **Balancing selection on HLA loci** - Monty Slatkin, UC Berkeley
+#### **1:30-2:30**: Talk Session 3 - Moderator: TBA
+* 1:30-1:50: **Fluctuating selection reveals extreme granularity and parallelism of adaptive tracking** - Mark Bitter, Stanford University, Postdoc, Petrov lab
+* 1:50-2:10: **Population genetics models of complex trait variation** - Roshni Patel, Stanford University, Graduate Student, Pritchard Lab
+* 2:10-2:30: **TBA** - Mozhgan Saeidi, 
 
-#### **2:00-3:00**: Talk Session 3 - Moderator: Jeff Groh, UC Davis
-* 2:00-2:20: **Archaic introgression into present-day humans: Insights into human history and biology** - Laurits Skov, UC Berkeley, post doc, Moorjani lab, [@Skovlaurits](https://twitter.com/Skovlaurits)
-* 2:20-2:40: **Harnessing genomic techniques to inform conservation management of the Lahontan Cutthroat trout (*Oncorhynchus clarkii henshawi*)** - Alana Luzzio, UC Davis, graduate student, Genomic Variation Laboratory, [@alana_michaela](https://twitter.com/alana_michaela)
-* 2:40-3:00: **Precise inference of natural selection with a comparative population genomics approach in Drosophila** - Bernard Kim, Stanford University, post doc, Petrov lab, [@Bernard_Y_Kim](https://twitter.com/Bernard_Y_Kim)
+#### **2:30-3:00**: Keynote Talk
+* **Building cell atlases** - Barbara Engelhardt, Stanford University/Gladstone Institutes
 
-#### **3:00-4:30**: Poster session 
-* **Rapid and reversible genetic turnover in antibiotic treated human gut microbiomes is driven by population replacements** - Sophie Jean Walton, Stanford University, graduate student, Petrov lab and Good lab, [@sophiejwalton](https://twitter.com/sophiejwalton)
-* **The evolutionary history of 17q21.31 structural haplotypes in ancient and modern humans** - Samvardhini Sridharan, UC Berkeley, graduate student, Sudmant Lab, [@ssamvardhini](https://twitter.com/ssamvardhini)
-* **Unraveling the genetic basis of rapid diversification in rockfish** - R. Nicolas Lou, UC Berkeley, post doc, Sudmant lab, [@NicolasLou10](https://twitter.com/NicolasLou10)
-* **Decoupling the contributions of growth and transitions to fitness in fluctuating environments** - Shaili Mathur, Stanford University, graduate student, Petrov lab and Cremer lab, [@MathurShaili](https://twitter.com/MathurShaili)
-* **Dynamics of bacterial recombination in the human gut microbiome** - Zhiru Liu, Stanford University, graduate student, Good lab
-* **Evidence for polygenic, directional cis-regulatory evolution in Southeast Asian mice** - Noah Simon, UC Berkeley, graduate student, Brem lab
-* **Reference-guided annotation for high-throughput generation of single-cell atlases across 60 million years of evolution in Drosophila** - James Hemker, Stanford University, graduate student, Petrov lab, [@jahemker](https://twitter.com/jahemker)
-* **Antibiotic Resistance and Plasmids** - Marisol Fermin Flores (graduate student) and Jacqueline Valentino (undergraduate student), San Francisco State University, CoDE/Pennings Lab
-* **Gene expression evolution in the Drosophila female somatic reproductive tract** - Rachel Thayer, UC Davis, post doc, Begun lab, [@RachelCThayer](https://twitter.com/RachelCThayer)
-* **Maintenance of genetic diversity in the herbivorous leaf-mining drosophilid Scaptomyza flava** - Diler Haji, UC Berkeley, graduate student, Whiteman lab, [@dlrhj](https://twitter.com/dlrhj)
-* **An Efficient Exact Algorithm for Identifying Hybrids Using Population Genomic Sequences** - Sneha Chakraborty, UC Davis, post doc, Rannala lab
-* **Sampling Selection and Clone Correction Influence Evolutionary Model Selection in Fungi** - Guy Robinson, UC Davis, graduate student, Cook lab, [@fermentedfungi](https://twitter.com/fermentedfungi)
-* **Genetic Epidemiology of Tuberculosis in South Africa** - Oshiomah Oyageshio, UC Davis, graduate student, Henn lab, [@OshiomahO](https://twitter.com/OshiomahO)
-* **Standard global ancestry correction reduces discovery power for differentiated variants in admixed populations** - Gillian Meeks, UC Davis, graduate student, Henn lab
-* **RatePlacer: an efficient method for molecular dating of ancient sediment samples** - Maya Lemmon-Kishi, UC Berkeley, graduate student, Nielsen lab, [@LemmonQuiche](https://twitter.com/LemmonQuiche)
-* **Estimating Genome-Wide Mutation Rate in South Asians Using Identity by Descent Segment Based Method** - Nathan Cramer, UC Berkeley, graduate student, Moorjani lab
-* **Genetic signatures from the Dutch East Indian slave trade in southern Africa** - Dana Al-Hindi, UC Davis, graduate student, Henn lab, [@dralhindi](https://twitter.com/dralhindi)
+
+#### **3:00-5:00**: Poster session and happy hour 
+* **Mitochondrial haplotype and mito-nuclear matching drive somatic mutation and selection throughout aging** - Isabel Serrano, UC Berkeley, Sudmant Lab
+* **Recovering signatures of ghost admixture using ancestral recombination graphs** - Yulin Zhang, UC Berkeley, Moorjani Lab
+* **Elucidating the population genetics of structural variants with 68 chromosome-level long-read genomes of Drosophila melanogaster** - James Hemker, Stanford University, Petrov Lab
+* **Enhancing Sediment DNA Analysis: An Automated Pipeline for Genomic Analysis** - Jierui Xu, UC Berkeley, Moorjani Lab
+* **Revisiting the Evolution of Lactase Persistence: Insights from South Asian Genomes** - Meaghan Marohn, UC Berkeley, Moorjani Lab
+* **Large genotype frequency fluctuations are linked to decorrelated offspring number stochasticity** - Joao Ascensao, UC Berkeley,  Hallatschek Lab
+* **Bacterial Recombination Overwhelms the Signal of Purifying Selection in dN/dS Dynamics** - Zhiru Liu, Stanford University, Good Lab
+* **Genetic diversity loss continues long after habitat destruction ends** - Kristy Mualim, Stanford University, Exposito-Alonso Lab
+* **Reconstructing the locations of genetic ancestors for a recombining sequence** - James Kitchens, UC Davis, Coop Lab
+* **Tracking barcoded transposon mutants of a plant pathogen** - Milo Johnson, UC Berkeley / Lawrence Berkeley National Lab, Deutschbauer Lab, Arkin Lab, and Koskella Lab
+* **Mating system variation influences gene expression across the male reproductive tract in Peromyscus mice** - Erin Voss, UC Berkeley, Nachman Lab
+* **Simulation-Based Evaluation of f-statistics to Detect Admixture in Ancient Human Genomes** - Sarah Johnson, UC Berkeley, Moorjani Lab
+* **snpArcher: A fast, reproducible, high-throughput variant calling workflow for population genomics** - Cade Mirchandani, UCSC, Corbett-Detig Lab
+* **Detecting Admixture Tracts From the Origin Population of the TCC>TTC Mutation “Europulse”** - Philippa Steinberg, University of Washington, Harris Lab
+* **Gene regulatory network structure affects the distribution of expression heritability** - Matthew Aguirre, Stanford University, Pritchard Lab
+* **Simple model with resistance acquisition and negative selection explains coexistence of resistant and susceptible strains** - Pleuni Pennings, SFSU
+* **The evolutionary history of 17q21.31 structural haplotypes in ancient and modern humans** Samvardhini Sridharan, UC Berkeley, Sudmant Lab
+
+
