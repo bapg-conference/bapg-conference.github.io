@@ -59,6 +59,6 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 * **How Old Is It: Molecular Dating for Ancient eDNA Samples** - Maya Lemmon-Kishi, UC Berkeley, Nielsen Lab
 * **The dynamics of Pareto fronts underlying natural resource specialization in S. cerevisae** - Elisa Visher, Stanford University, Petrov Lab
 * **Navigating Climate Resilience: Genomic Strategies for Kelp Ecosystem Management and Restoration** - Roy Roberts, UCSC, Pinsky Lab
-* **The dynamics of accumulation of gametic segregation distorters in Arabidopsis** - Christopher Condon, UCSC 
+* **The dynamics of accumulation of gametic segregation distorters in Arabidopsis** - Christopher Condon, UCSC
 
 
