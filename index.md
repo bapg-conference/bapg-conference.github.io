@@ -4,7 +4,7 @@ title: BAPG Fall 2023
 
 ## Stanford, 12/02/2023
 
-Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Conference at Stanford hosted by the Petrov Lab! The conference will be held on December 2, 2023 at the [Huang Engineering Center](https://maps.app.goo.gl/4kftR4cE132cnFxy9) on Stanford Campus. Parking is free on campus on weekends. The closest parking structure is the [Via Ortega Garage](https://maps.app.goo.gl/Rdwhap8ogo92LSqm6). Registration is free (but required) and will include coffee/breakfast and lunch. **Registration and talk/poster submissions now closed.**
+Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Conference at Stanford hosted by the Petrov Lab! The conference will be held on December 2, 2023 at the [Huang Engineering Center](https://maps.app.goo.gl/4kftR4cE132cnFxy9) on Stanford Campus. Parking is free on campus on weekends. The closest parking structure is the [Via Ortega Garage](https://maps.app.goo.gl/Rdwhap8ogo92LSqm6). Registration is free (but required) and will include coffee/breakfast and lunch. **Talk/poster submissions are now closed, but you can still register [here](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfCP7V9S-U4t1WLHClm_l5bwAJFv3qE5mZNTBUPIBmSY1ArzA/alreadyresponded?usp=send_form)**
 
 ### Schedule
 
