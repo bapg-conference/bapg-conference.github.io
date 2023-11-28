@@ -17,11 +17,25 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 * 9:25-9:45: **Leveraging ARGs for the estimation of selection coefficients and allele histories from ancient DNA** - Andrew Vaughn, UC Berkeley Graduate Student,Nielsen Lab
 * 9:45-10:05: **The effectiveness of selection drives the direction of protein evolution** - Hanon McShea, Stanford University, Graduate Student, Welander Lab
 * 10:05-10:25: **Covarying Levels of Water Pollution and Admixture in a Swordtail Fish Hybrid Zone** - Ben Moran, Stanford University, Graduate Student, Schumer Lab
+* 11:00-11:20: **The Genetic Architecture of Bronchopulmonary Dysplasia in Extremely Preterm Infants.** - Miguel Guardado, UCSF, Graduate Student, Hernandez Lab and Torgerson Lab
+* 11:20-11:40: **Archaic introgression into present-day humans: Insights into human history and biology** - Laurits Skov, UC Berkeley, Postdoc, Moorjani lab
+* 11:40-12:00: **High-resolution lineage tracking of within-host evolution and transmission of a prominent gut symbiont across ecological scales** - Daniel Wong, Stanford University, Graduate Student,Good Lab
+* 12:00-12:20: **Prolonged delays in human microbiota transmission after a controlled antibiotic perturbation** - Katherine Xue, Stanford University, Postdoc, Relman Lab and Petrov Lab
+* 1:30-1:50: **Fluctuating selection reveals extreme granularity and parallelism of adaptive tracking** - Mark Bitter, Stanford University, Postdoc, Petrov lab
+* 1:50-2:10: **Population genetics models of complex trait variation** - Roshni Patel, Stanford University, Graduate Student, Pritchard Lab
+* 2:10-2:30: **TBA** - Mozhgan Saeidi, 
+
+
+#### **9:05-10:25**: Talk Session 1 - Moderator: TBA
+* 9:05-9:25: **Challenges in ARG inference and applications: how to interpret and can we fix them?** - Yun Deng, UC Berkeley Graduate Student, Nielsen Lab and Song Lab
+* 9:25-9:45: **The Genetic Architecture of Bronchopulmonary Dysplasia in Extremely Preterm Infants.** - Miguel Guardado, UCSF, Graduate Student, Hernandez Lab and Torgerson Lab
+* 9:45-10:05: **TBA** - Mozhgan Saeidi,
+* 10:05-10:25: **Population genetics models of complex trait variation** - Roshni Patel, Stanford University, Graduate Student, Pritchard Lab
 
 #### **10:25-11:00**: Coffee Break 
 
 #### **11:00-12:30**: Talk Session 2 - Moderator: TBA
-* 11:00-11:20: **The Genetic Architecture of Bronchopulmonary Dysplasia in Extremely Preterm Infants.** - Miguel Guardado, UCSF, Graduate Student, Hernandez Lab and Torgerson Lab
+* 11:00-11:20: **Covarying Levels of Water Pollution and Admixture in a Swordtail Fish Hybrid Zone** - Ben Moran, Stanford University, Graduate Student, Schumer Lab
 * 11:20-11:40: **Archaic introgression into present-day humans: Insights into human history and biology** - Laurits Skov, UC Berkeley, Postdoc, Moorjani lab
 * 11:40-12:00: **High-resolution lineage tracking of within-host evolution and transmission of a prominent gut symbiont across ecological scales** - Daniel Wong, Stanford University, Graduate Student,Good Lab
 * 12:00-12:20: **Prolonged delays in human microbiota transmission after a controlled antibiotic perturbation** - Katherine Xue, Stanford University, Postdoc, Relman Lab and Petrov Lab
@@ -29,9 +43,9 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 #### **12:20-1:30**: Lunch
 
 #### **1:30-2:30**: Talk Session 3 - Moderator: TBA
-* 1:30-1:50: **Fluctuating selection reveals extreme granularity and parallelism of adaptive tracking** - Mark Bitter, Stanford University, Postdoc, Petrov lab
-* 1:50-2:10: **Population genetics models of complex trait variation** - Roshni Patel, Stanford University, Graduate Student, Pritchard Lab
-* 2:10-2:30: **TBA** - Mozhgan Saeidi, 
+* 1:30-1:50:**Leveraging ARGs for the estimation of selection coefficients and allele histories from ancient DNA** - Andrew Vaughn, UC Berkeley Graduate Student,Nielsen Lab
+* 1:50-2:10: **The effectiveness of selection drives the direction of protein evolution** - Hanon McShea, Stanford University, Graduate Student, Welander Lab
+* 2:10-2:30: **Fluctuating selection reveals extreme granularity and parallelism of adaptive tracking** - Mark Bitter, Stanford University, Postdoc, Petrov lab 
 
 #### **2:30-3:00**: Keynote Talk
 * **Building cell atlases** - Barbara Engelhardt, Stanford University/Gladstone Institutes
@@ -60,5 +74,8 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 * **The dynamics of Pareto fronts underlying natural resource specialization in S. cerevisae** - Elisa Visher, Stanford University, Petrov Lab
 * **Navigating Climate Resilience: Genomic Strategies for Kelp Ecosystem Management and Restoration** - Roy Roberts, UCSC, Pinsky Lab
 * **The dynamics of accumulation of gametic segregation distorters in Arabidopsis** - Christopher Condon, UCSC
+* **Early warning signs of kidney disease in PKD1 and PKD2 loss of function carriers** Natalie Telis, Helix
+* **Phylogenomics reveals microgeographic population structuring in a genus of California trapdoor spiders and an enigmatic new species (Euctenizidae: Promyrmekiaphila korematsui sp. nov.)*** James Starrett, UC Davis, Bond Lab
+* **Adaptive immune response as a platform for experimental evolution** William DeWitt, UC Berkeley,Song Lab
 
 
