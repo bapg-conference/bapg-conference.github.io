@@ -68,7 +68,6 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 * **Creating a Global Reference Phylogeny of the Mycobacterium Tuberculosis Complex** - Lily Karim, UCSC, Corbett-Detig Lab
 * **Tracing genealogical ancestors in Mexican populations** - Juan Esteban Rodriguez Rodriguez, Stanford University, Rosenberg Lab
 * **TBA** - Elena Zavala, UC Berkeley, Moorjani Lab and Rohlfs Lab
-* **TBA** - Jean Vila, Stanford University, Petrov Lab
 * **TBA** - Alexander Starr, Stanford University, Fraser Lab
 * **TBA** - Meaghan Marohn, UC Berkeley, Moorjani Lab
 * **TBA** - Kara Ryan, UCSC, Kelley Lab
