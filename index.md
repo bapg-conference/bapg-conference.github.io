@@ -29,7 +29,7 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 #### **12:20-1:30**: Lunch
 
 #### **1:30-2:30**: Talk Session 3 - Moderator: Sophie Jean Walton, Stanford University 
-* 1:30-1:50:**Leveraging ARGs for the estimation of selection coefficients and allele histories from ancient DNA** - Andrew Vaughn, UC Berkeley Graduate Student,Nielsen Lab
+* 1:30-1:50: **Leveraging ARGs for the estimation of selection coefficients and allele histories from ancient DNA** - Andrew Vaughn, UC Berkeley Graduate Student,Nielsen Lab
 * 1:50-2:10: **The effectiveness of selection drives the direction of protein evolution** - Hanon McShea, Stanford University, Graduate Student, Welander Lab
 * 2:10-2:30: **Fluctuating selection reveals extreme granularity and parallelism of adaptive tracking** - Mark Bitter, Stanford University, Postdoc, Petrov lab 
 
