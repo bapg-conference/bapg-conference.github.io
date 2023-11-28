@@ -15,7 +15,7 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 #### **9:05-10:25**: Talk Session 1 - Moderator: Dmitri Petrov, Stanford University
 * 9:05-9:25: **Challenges in ARG inference and applications: how to interpret and can we fix them?** - Yun Deng, UC Berkeley Graduate Student, Nielsen Lab and Song Lab
 * 9:25-9:45: **The Genetic Architecture of Bronchopulmonary Dysplasia in Extremely Preterm Infants.** - Miguel Guardado, UCSF, Graduate Student, Hernandez Lab and Torgerson Lab
-* 9:45-10:05: **TBA** - Mozhgan Saeidi,
+* 9:45-10:05: **Contextual Embedding-Based Weighted Relevance Scoring for Improved Clinical Trial Matching** - Mozhgan Saeidi,Stanford University 
 * 10:05-10:25: **Population genetics models of complex trait variation** - Roshni Patel, Stanford University, Graduate Student, Pritchard Lab
 
 #### **10:25-11:00**: Coffee Break 
@@ -23,7 +23,7 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 #### **11:00-12:30**: Talk Session 2 - Moderator: Jean Vila, Stanford University
 * 11:00-11:20: **Covarying Levels of Water Pollution and Admixture in a Swordtail Fish Hybrid Zone** - Ben Moran, Stanford University, Graduate Student, Schumer Lab
 * 11:20-11:40: **Archaic introgression into present-day humans: Insights into human history and biology** - Laurits Skov, UC Berkeley, Postdoc, Moorjani lab
-* 11:40-12:00: **High-resolution lineage tracking of within-host evolution and transmission of a prominent gut symbiont across ecological scales** - Daniel Wong, Stanford University, Graduate Student,Good Lab
+* 11:40-12:00: **High-resolution lineage tracking of within-host evolution and transmission of a prominent gut symbiont across ecological scales** - Daniel Wong, Stanford University, Graduate Student, Good Lab
 * 12:00-12:20: **Prolonged delays in human microbiota transmission after a controlled antibiotic perturbation** - Katherine Xue, Stanford University, Postdoc, Relman Lab and Petrov Lab
 
 #### **12:20-1:30**: Lunch
@@ -67,4 +67,13 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 * **Differences in CNV calling methods drive variation in CNVs more than population structure or assembly choice** - Lucia Bazan-Williamson, UC Merced, McTavish Lab
 * **Creating a Global Reference Phylogeny of the Mycobacterium Tuberculosis Complex** - Lily Karim, UCSC, Corbett-Detig Lab
 * **Tracing genealogical ancestors in Mexican populations** - Juan Esteban Rodriguez Rodriguez, Stanford University, Rosenberg Lab
+* **TBA** - Elena Zavala, UC Berkeley, Moorjani Lab and Rohlfs Lab
+* **TBA** - Jean Vila, Stanford University, Petrov Lab
+* **TBA** - Alexander Starr, Stanford University, Fraser Lab
+* **TBA** - Meaghan Marohn, UC Berkeley, Moorjani Lab
+* **TBA** - Kara Ryan, UCSC, Kelley Lab
+* **TBA** - Chandler Sutherland, UC Berkeley, Krasileva Lab
+* **TBA** - Zehua Zhou, UC Berkeley,
+* **TBA** - Kaleda Denton, Stanford University, Feldman Lab
+* **TBA** - Megan Ruffleym Stanford University, Exposito-Alonso Lab
 
