@@ -75,5 +75,5 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 * **TBA** - Chandler Sutherland, UC Berkeley, Krasileva Lab
 * **TBA** - Zehua Zhou, UC Berkeley,
 * **TBA** - Kaleda Denton, Stanford University, Feldman Lab
-* **TBA** - Megan Ruffleym Stanford University, Exposito-Alonso Lab
+* **TBA** - Megan Ruffley, Stanford University, Exposito-Alonso Lab
 
