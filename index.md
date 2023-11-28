@@ -78,5 +78,6 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 * **Phylogenomics reveals microgeographic population structuring in a genus of California trapdoor spiders and an enigmatic new species (Euctenizidae: Promyrmekiaphila korematsui sp. nov.)** - James Starrett, UC Davis, Bond Lab
 * **Adaptive immune response as a platform for experimental evolution** - William DeWitt, UC Berkeley,Song Lab
 * **Testing the Levene Model using experimental evolution of herbivorous Drosophilidae** - Diler Haji, University of Connecticut
+* **Differences in CNV calling methods drive variation in CNVs more than population structure or assembly choice** Lucia Bazan-Williamson, UC Merced, McTavish Lab
 
 
