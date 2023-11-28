@@ -74,8 +74,9 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 * **The dynamics of Pareto fronts underlying natural resource specialization in S. cerevisae** - Elisa Visher, Stanford University, Petrov Lab
 * **Navigating Climate Resilience: Genomic Strategies for Kelp Ecosystem Management and Restoration** - Roy Roberts, UCSC, Pinsky Lab
 * **The dynamics of accumulation of gametic segregation distorters in Arabidopsis** - Christopher Condon, UCSC
-* **Early warning signs of kidney disease in PKD1 and PKD2 loss of function carriers** Natalie Telis, Helix
-* **Phylogenomics reveals microgeographic population structuring in a genus of California trapdoor spiders and an enigmatic new species (Euctenizidae: Promyrmekiaphila korematsui sp. nov.)*** James Starrett, UC Davis, Bond Lab
-* **Adaptive immune response as a platform for experimental evolution** William DeWitt, UC Berkeley,Song Lab
+* **Early warning signs of kidney disease in PKD1 and PKD2 loss of function carriers** - Natalie Telis, Helix
+* **Phylogenomics reveals microgeographic population structuring in a genus of California trapdoor spiders and an enigmatic new species (Euctenizidae: Promyrmekiaphila korematsui sp. nov.)** - James Starrett, UC Davis, Bond Lab
+* **Adaptive immune response as a platform for experimental evolution** - William DeWitt, UC Berkeley,Song Lab
+* **Testing the Levene Model using experimental evolution of herbivorous Drosophilidae** - Diler Haji, University of Connecticut
 
 
