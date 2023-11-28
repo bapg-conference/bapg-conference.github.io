@@ -67,7 +67,7 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 * **Differences in CNV calling methods drive variation in CNVs more than population structure or assembly choice** - Lucia Bazan-Williamson, UC Merced, McTavish Lab
 * **Creating a Global Reference Phylogeny of the Mycobacterium Tuberculosis Complex** - Lily Karim, UCSC, Corbett-Detig Lab
 * **Tracing genealogical ancestors in Mexican populations** - Juan Esteban Rodriguez Rodriguez, Stanford University, Rosenberg Lab
-* **TThe evolution of structural variants in sulfide adapted fishes** - Kara Ryan, UCSC, Kelley Lab
+* **The evolution of structural variants in sulfide adapted fishes** - Kara Ryan, UCSC, Kelley Lab
 * **TBA** - Elena Zavala, UC Berkeley, Moorjani Lab and Rohlfs Lab
 * **TBA** - Alexander Starr, Stanford University, Fraser Lab
 * **TBA** - Meaghan Marohn, UC Berkeley, Moorjani Lab
