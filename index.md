@@ -2,9 +2,23 @@
 title: BAPG Fall 2023
 ---
 
+<style>
+    .sponsor {
+        text-align: center;
+    }
+    .sponsor img {
+        width: 100%;
+        max-width: 800px;
+    }
+</style>
+
 ## Stanford, 12/02/2023
 
 Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Conference at Stanford hosted by the Petrov Lab! The conference will be held on December 2, 2023 at the [Huang Engineering Center](https://maps.app.goo.gl/4kftR4cE132cnFxy9) on Stanford Campus. Parking is free on campus on weekends. The closest parking structure is the [Via Ortega Garage](https://maps.app.goo.gl/Rdwhap8ogo92LSqm6). Registration is free (but required) and will include coffee/breakfast and lunch. **Talk/poster submissions are now closed, but you can still register [here](https://docs.google.com/forms/u/0/d/e/1FAIpQLSfCP7V9S-U4t1WLHClm_l5bwAJFv3qE5mZNTBUPIBmSY1ArzA/alreadyresponded?usp=send_form)**
+
+
+Thank you to BioBridge, Stanford Department of Biology, the Ecology and Evolution Group at the Stanford Biology Department, and Stanford Center of Human and Evolutionary Genomics (CEHG) for sponsoring BAPG! 
+
 
 ### Schedule
 
@@ -45,7 +59,6 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 * **Revisiting the Evolution of Lactase Persistence: Insights from South Asian Genomes** - Meaghan Marohn, UC Berkeley, Moorjani Lab
 * **Large genotype frequency fluctuations are linked to decorrelated offspring number stochasticity** - Joao Ascensao, UC Berkeley,  Hallatschek Lab
 * **Bacterial Recombination Overwhelms the Signal of Purifying Selection in dN/dS Dynamics** - Zhiru Liu, Stanford University, Good Lab
-* **Genetic diversity loss continues long after habitat destruction ends** - Kristy Mualim, Stanford University, Exposito-Alonso Lab
 * **Reconstructing the locations of genetic ancestors for a recombining sequence** - James Kitchens, UC Davis, Coop Lab
 * **Tracking barcoded transposon mutants of a plant pathogen** - Milo Johnson, UC Berkeley / Lawrence Berkeley National Lab, Deutschbauer Lab, Arkin Lab, and Koskella Lab
 * **Mating system variation influences gene expression across the male reproductive tract in Peromyscus mice** - Erin Voss, UC Berkeley, Nachman Lab
@@ -63,11 +76,12 @@ Welcome to the site for the 22nd Bay Area Population Genomics (#BAPGXXII) Confer
 * **Early warning signs of kidney disease in PKD1 and PKD2 loss of function carriers** - Natalie Telis, Helix
 * **Phylogenomics reveals microgeographic population structuring in a genus of California trapdoor spiders and an enigmatic new species (Euctenizidae: Promyrmekiaphila korematsui sp. nov.)** - James Starrett, UC Davis, Bond Lab
 * **Adaptive immune response as a platform for experimental evolution** - William DeWitt, UC Berkeley,Song Lab
-* **Testing the Levene Model using experimental evolution of herbivorous Drosophilidae** - Diler Haji, University of Connecticut
+* **Testing the Levene Model using experimental evolution of herbivorous Drosophilidae** - Diler Haji, UC Berkeley, Whiteman Lab
 * **Differences in CNV calling methods drive variation in CNVs more than population structure or assembly choice** - Lucia Bazan-Williamson, UC Merced, McTavish Lab
 * **Creating a Global Reference Phylogeny of the Mycobacterium Tuberculosis Complex** - Lily Karim, UCSC, Corbett-Detig Lab
 * **Tracing genealogical ancestors in Mexican populations** - Juan Esteban Rodriguez Rodriguez, Stanford University, Rosenberg Lab
 * **The evolution of structural variants in sulfide adapted fishes** - Kara Ryan, UCSC, Kelley Lab
+* **Evolution of Base Composition Across 248 Mammalian Genomes** - Nathan Cramer, UC Berkeley, Moorjani Lab 
 * **TBA** - Elena Zavala, UC Berkeley, Moorjani Lab and Rohlfs Lab
 * **TBA** - Alexander Starr, Stanford University, Fraser Lab
 * **TBA** - Meaghan Marohn, UC Berkeley, Moorjani Lab
