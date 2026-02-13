@@ -14,7 +14,7 @@ title: BAPG Spring 2026
 
 ## UC Davis, 04/11/2026
 
-Welcome to the site for the 25th Bay Area Population Genomics (#BAPGXXV) Conference at UC Davis! The conference will be held April 11, 2026 on UC Davis Campus at the [Genome and Biomedical Sciences Facility](https://maps.app.goo.gl/7QezoGmFrFkTKSvN9). Parking is free on campus on weekends. The closest parking structure is the [Pavilion Structure](https://goo.gl/maps/L6eDeHQgQxpu5TEcA). Registration is free (but required) and will include coffee/breakfast and lunch. **Registration and talk/poster submissions coming soon!**
+Welcome to the site for the 25th Bay Area Population Genomics (#BAPGXXV) Conference at UC Davis! The conference will be held April 11, 2026 on UC Davis Campus at the [Genome and Biomedical Sciences Facility](https://maps.app.goo.gl/7QezoGmFrFkTKSvN9). Parking is free on campus on weekends and available directly outside the building. Registration is free (but required) and will include coffee/breakfast and lunch. **Registration and talk/poster submissions coming soon!**
 
 Thank you to **ADD SPONSERS** for sponsoring this conference!
 
