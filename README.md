@@ -13,7 +13,7 @@ This repository hosts the BAPG website through GitHub pages. Updates to the webs
     <img width="1285" alt="Screen Shot 2023-04-19 at 9 22 33 PM" src="https://user-images.githubusercontent.com/40303683/233257644-c9d0e86d-e51e-454a-b080-c7568686934a.png">
 
     - Click "bapg-conference.github.io" to return to the main repository, then enter the "previous" folder. There you should see Markdown files from previous conferences.
-    - Click "Add file", "Create new file", name the file following the same naming convention (seasonYEAR) and paste the copied contents.
+    - Click "Add file", "Create new file", name the file following the same naming convention (YEARseason) and paste the copied contents.
 4. Now, its time to edit the files with your conference information:
     - Click "index.md" and then the pencil at the top right of the document. This will allow you to edit the document.
 
