@@ -18,8 +18,6 @@ Welcome to the site for the 25th Bay Area Population Genomics (#BAPGXXV) Confere
 
 [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSd3P79sb4HIIOKyH8xKJhyxv-iVvBXHRG0LN3auQgC7aZ1ggQ/viewform?usp=dialog)
 
-Thank you to **ADD SPONSERS** for sponsoring this conference!
-
 ### Schedule
 
 #### **8:30-9:25**: Check-in and continental breakfast 
