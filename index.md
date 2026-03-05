@@ -32,7 +32,7 @@ Welcome to the site for the 25th Bay Area Population Genomics (#BAPGXXV) Confere
 
 #### **12:30-1:30**: Lunch
 
-#### **1:30-2:00**: Keynote Talk
+#### **1:30-2:00**: Keynote Talk - Molly Schumer, Stanford
 
 #### **2:00-3:00**: Talk Session 3 - Moderator:
 
