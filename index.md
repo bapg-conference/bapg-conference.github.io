@@ -9,7 +9,7 @@ title: BAPG Spring 2026
 
     .logo img {
         width: 100%;
-        max-width: 800px;
+        max-width: 500px;
     }
 
     .sponsor {
