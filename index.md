@@ -32,6 +32,12 @@ Welcome to the site for the **25th Bay Area Population Genomics (#BAPGXXV) Confe
 
 [REGISTER HERE](https://docs.google.com/forms/d/e/1FAIpQLSd3P79sb4HIIOKyH8xKJhyxv-iVvBXHRG0LN3auQgC7aZ1ggQ/viewform?usp=dialog)
 
+Thank you to [Ancestry](https://www.ancestry.com), [BridgeBio Pharma](https://bridgebio.com), [Delfi Diagnostics](https://delfidiagnostics.com), [Spatial Genomics](https://spatialgenomics.com), and the [UC Davis Center for Population Biology](https://cpb.ucdavis.edu) for sponsoring this conference!
+
+{:.sponsor}
+![Sponsors](images/2026spring/sponser_logos.png)
+
+
 ### Schedule
 
 #### **8:30-9:25**: Check-in and continental breakfast 
