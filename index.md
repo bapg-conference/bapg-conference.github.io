@@ -1,5 +1,4 @@
 ---
-title: BAPG Spring 2026
 ---
 
 <style>
