@@ -2,6 +2,10 @@
 ---
 
 <style>
+    .page-header {
+        display: none;
+    }
+
     .logo {
         text-align: center;
     }
