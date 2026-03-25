@@ -60,7 +60,7 @@ Thank you to the UC Davis [College of Biological Sciences](https://biology.ucdav
 
 #### **12:10-1:30**: Lunch
 
-#### **1:30-2:00: Keynote Talk - Molly Schumer, Stanford - Insertion of an invading retrovirus impacts a novel color trait in swordtail fish**
+#### **1:30-2:00**: Keynote Talk - Molly Schumer, Stanford University - **Insertion of an invading retrovirus impacts a novel color trait in swordtail fish**
 
 #### **2:00-3:00**: Talk Session 3 - Moderator:
 * 2:00-2:15: **Point cloud local ancestry inference (PCLAI): continuous coordinate-based ancestry along the genome** - Margarita Geleta, Ioannidis Lab, UC Berkeley
