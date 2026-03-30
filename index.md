@@ -100,7 +100,6 @@ Thank you to the UC Davis [College of Biological Sciences](https://biology.ucdav
 * **Comparative genomic analyses shed light on the introduction routes of rice-pathogenic Burkholderia gladioli strains into Bangladesh** - Ismam Ahmed Protic, Alvarez-Ponce Lab, University of Nevada Reno
 * **Infrastructure for Genomics Analysis at Scale** - Syrine Ben Driss, Operon Technologies
 * **Substitution spectrum and selection at G-quadruplexes in great ape telomere-to-telomere genomes** - Xinru Zhang, Gladstone and Pollard Lab, UC San Francisco
-* **Single-cell transcriptomics reveals early Wolbachia infection dynamics in Drosophila melanogaster** - Jodie Jacobs, Russell Lab, UC Santa Cruz
 * **The Genomic Legacy of Neanderthal and Denisovan Ancestry Across 50,000 Years of Evolutionary History in East Asia** - Sophie Joseph, Moorjani Lab, UC Berkeley
 * **Mitonuclear incompatibilities with a shared genetic basis differ in their effects on hybrid physiology** - Nemo Robles, Schumer Lab, Stanford University
 * **TBD** - Benjamin Blonder, Blonder Lab, UC Berkeley
