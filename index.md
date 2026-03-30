@@ -69,3 +69,40 @@ Thank you to the UC Davis [College of Biological Sciences](https://biology.ucdav
 * 2:45-3:00: **Linked selection drives allele frequency change in global evolution experiment** - Roberts Miles, Exposito-Alonso Lab, UC Berkeley
 
 #### **3:00-4:30**: Poster session
+* **Immunogenetic Profiling of Tuberculosis Susceptibility in a South African Population** - Oshiomah Oyageshio, Henn Lab, UC Davis
+* **Waves-on-plates': high-resolution lineage tracking in controlled range expansions** - Keon Abedi, Hallatschek Lab, UC Berkeley
+* **Evolution in spatially structured populations** - Gursachi Sikka, Hallatschek Lab, UC Berkeley
+* **Modeling Drug Resistance Evolution Via Ontogenetic Systems** - Zoe Keenan, Hallatschek Lab, UC Berkeley
+* **Estimating Effective Population Size from ARGs: An EM-based Approach** - Kaiyuan Li, Nielsen Lab, UC Berkeley
+* **Towards population genomics of the bacterial wilt pathogens in the Ralstonia solanacearum species complex** - Tiffany Lowe-Power, Lowe-Power Lab, UC Davis
+* **Quantifying Anthropogenic Effects on Maize Genetic Diversity** - Samantha Snodgrass, Ross-Ibarra and Coop Labs, UC Davis
+* **Genotype specific transcriptomic responses to heat stress in Zostera marina** - Glyn Carson, Bay Lab, UC Davis
+* **One Nation Under a Groove: Ensemble Learning for Demographic Inference** - Ananya Kapoor, Kern-Ralph Colab, University of Oregon
+* **TEs in the “Metagenome”: A kmer based approach to estimate TE abundance from short reads** - Natasha Dhamrait, Ross-Ibarra Lab, UC Davis
+* **HLA–KIR Interaction and Active Tuberculosis Risk in Khoe-San Descent Populations** - Kristin Hardy, Henn Lab, UC Davis
+* **Catostomid genetics** - Johnathan Lo, Sudmant and Boots Labs, UC Berkeley
+* **Tissue Specific Mitochondrial DNA Mutational Landscapes in Humans, Mice, and Macaques** - Hannah Aguilar, UC Berkeley
+* **T2T primate genomes reveal 70 million years of structural  variation and karyotype evolution** - Scott Ferguson, Sudmant Lab, UC Berkeley
+* **Expected Value of the Sackin index under a biased speciation model** - Daniel Bauman, Rosenberg and Good Lab, Stanford University
+* **TBD** - Japneet Kaur, Henn Lab, UC Davis
+* **Genomic diversity across 200 plant species of variable Red List status** - Jules Perez, Moi Lab, UC Berkeley
+* **Experimental climate change magnifies genetic vulnerabilities from mutation load and maladaptation** - Laura Leventhal, Stanford University
+* **Spatial Genomic Scale and Determinants of Human Germline Mutation Landscape** - Nathan Cramer, Moorjani Lab, UC Berkeley
+* **Maize landraces are not distinct populations or genetic lineages** - Mackenzie Chun, Ross-Ibarra Lab, UC Davis
+* **Measuring selection on regulatory networks combining population transcriptomics and experimental evolution** - Eddy Mendoza-Galindo, UC Berkeley
+* **What the POP is going on? Complex allelic variation underlying trait diversification in columbines** - Evangeline Ballerini, Ballerini Lab, CSU Sacramento
+* **Determinants of local ancestry in a three species hybrid zone** - Kelsie Hunnicutt, Schumer Lab, Stanford University
+* **Population genetic determinants of protein biophysics** - Solomon McShea, Phillips Lab, UC San Francisco
+* **The contribution of ethnolinguistics to Mesoamerican maize genetic diversity** - Forrest Li, Ross-Ibarra Lab, UC Davis
+* **CAAPAWeb: Linking Data and Discovery for Population Genomics and Variant Annotation** - Mustafa Malik, Henn Lab, UC Davis
+* **Panmap: Scalable phylogeny-guided alignment, genotyping, and placement on pangenomes** - Alan Zhang, Corbett-Detig Lab, UC Santa Cruz
+* **Seasonally fluctuating selection drives repeatable allele frequency shifts across years in large genetically diverse populations** - Christopher Kirby, Petrov Lab, Stanford University
+* **Comparative genomic analyses shed light on the introduction routes of rice-pathogenic Burkholderia gladioli strains into Bangladesh** - Ismam Ahmed Protic, Alvarez-Ponce Lab, University of Nevada Reno
+* **Infrastructure for Genomics Analysis at Scale** - Syrine Ben Driss, Operon Technologies
+* **Substitution spectrum and selection at G-quadruplexes in great ape telomere-to-telomere genomes** - Xinru Zhang, Gladstone and Pollard Lab, UC San Francisco
+* **Single-cell transcriptomics reveals early Wolbachia infection dynamics in Drosophila melanogaster** - Jodie Jacobs, Russell Lab, UC Santa Cruz
+* **The Genomic Legacy of Neanderthal and Denisovan Ancestry Across 50,000 Years of Evolutionary History in East Asia** - Sophie Joseph, Moorjani Lab, UC Berkeley
+* **Mitonuclear incompatibilities with a shared genetic basis differ in their effects on hybrid physiology** - Nemo Robles, Schumer Lab, Stanford University
+* **TBD** - Benjamin Blonder, Blonder Lab, UC Berkeley
+* **Reconstructing mutation patterns over the course of human evolution** - Yulin Zhang, Moorjani Lab, UC Berkeley
+* **Functional consequences of natural genetic variation** - Olivia Ghosh, Stanford University
