@@ -35,7 +35,7 @@ Welcome to the site for the **25th Bay Area Population Genomics (#BAPGXXV) Confe
 Thank you to the UC Davis [College of Biological Sciences](https://biology.ucdavis.edu), [Genome Center](https://genomecenter.ucdavis.edu), [Center for Population Biology](https://cpb.ucdavis.edu), [Integrative Genetics and Genomics Graduate Group](https://igg.ucdavis.edu), [Department of Plant Sciences](https://www.plantsciences.ucdavis.edu), and [Bayer](https://www.bayer.com/) for sponsoring this conference!
 
 {:.sponsor}
-![Sponsors](images/2026spring/sponser_logos.png)
+![Sponsors](images/2026spring/BAPG_2026spring_Sponsors.png)
 
 
 ### Schedule
