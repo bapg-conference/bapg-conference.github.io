@@ -73,7 +73,6 @@ Thank you to the UC Davis [College of Biological Sciences](https://biology.ucdav
 * **Waves-on-plates': high-resolution lineage tracking in controlled range expansions** - Keon Abedi, Hallatschek Lab, UC Berkeley
 * **Evolution in spatially structured populations** - Gursachi Sikka, Hallatschek Lab, UC Berkeley
 * **Modeling Drug Resistance Evolution Via Ontogenetic Systems** - Zoe Keenan, Hallatschek Lab, UC Berkeley
-* **Estimating Effective Population Size from ARGs: An EM-based Approach** - Kaiyuan Li, Nielsen Lab, UC Berkeley
 * **Towards population genomics of the bacterial wilt pathogens in the Ralstonia solanacearum species complex** - Tiffany Lowe-Power, Lowe-Power Lab, UC Davis
 * **Quantifying Anthropogenic Effects on Maize Genetic Diversity** - Samantha Snodgrass, Ross-Ibarra and Coop Labs, UC Davis
 * **Genotype specific transcriptomic responses to heat stress in Zostera marina** - Glyn Carson, Bay Lab, UC Davis
