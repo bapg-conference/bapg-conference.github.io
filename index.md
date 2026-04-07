@@ -101,6 +101,5 @@ Thank you to the UC Davis [College of Biological Sciences](https://biology.ucdav
 * **Substitution spectrum and selection at G-quadruplexes in great ape telomere-to-telomere genomes** - Xinru Zhang, Gladstone and Pollard Lab, UC San Francisco
 * **The Genomic Legacy of Neanderthal and Denisovan Ancestry Across 50,000 Years of Evolutionary History in East Asia** - Sophie Joseph, Moorjani Lab, UC Berkeley
 * **Mitonuclear incompatibilities with a shared genetic basis differ in their effects on hybrid physiology** - Nemo Robles, Schumer Lab, Stanford University
-* **TBD** - Benjamin Blonder, Blonder Lab, UC Berkeley
 * **Reconstructing mutation patterns over the course of human evolution** - Yulin Zhang, Moorjani Lab, UC Berkeley
 * **Functional consequences of natural genetic variation** - Olivia Ghosh, Stanford University
