@@ -44,7 +44,7 @@ Thank you to the UC Davis [College of Biological Sciences](https://biology.ucdav
 
 #### **9:25-9:30**: Welcome Remarks
 
-#### **9:30-10:30**: Talk Session 1 - Moderator:
+#### **9:30-10:30**: Talk Session 1 - Moderator: Natasha Dhamrait
 * 9:30-9:45: **Turnover and introgression shape the dynamic evolution of a sexual mimicry polymorphism shared across the genus Xiphophorus** - Tristram Dodge, Schumer Lab, Stanford University
 * 9:45-10:00: **Community coalescence reveals strong selection and coexistence within species in complex microbial communities** - Sophie Walton, Petrov and Good Labs, Stanford University
 * 10:00-10:15: **No Evidence for MHC-Based Mate Choice: Insights from a Natural Experiment in the Himba** - Gillian Meeks, UC Davis
@@ -52,7 +52,7 @@ Thank you to the UC Davis [College of Biological Sciences](https://biology.ucdav
 
 #### **10:30-11:10**: Coffee Break 
 
-#### **11:10-12:10**: Talk Session 2 - Moderator:
+#### **11:10-12:10**: Talk Session 2 - Moderator: Forrest Li
 * 11:10-11:25: **Population genomics of Ctenophores** - Shannon Johnson, Monterey Bay Aquarium Research Institute
 * 11:25-11:40: **An assembly graph permutation test to detect variation caused by haplotype misassembly** - Sam Bogan, Kelley Lab, UC Santa Cruz
 * 11:40-11:55: **The genetics, evolution, and maintenance of a biological rock-paper- scissors game** - Ammon Corl, Nielsen Lab, UC Berkeley
@@ -62,7 +62,7 @@ Thank you to the UC Davis [College of Biological Sciences](https://biology.ucdav
 
 #### **1:30-2:00**: Keynote Talk - Molly Schumer, Stanford University - Insertion of an invading retrovirus impacts a novel color trait in swordtail fish
 
-#### **2:00-3:00**: Talk Session 3 - Moderator:
+#### **2:00-3:00**: Talk Session 3 - Moderator: Regina Fairbanks
 * 2:00-2:15: **Point cloud local ancestry inference (PCLAI): continuous coordinate-based ancestry along the genome** - Margarita Geleta, Ioannidis Lab, UC Berkeley
 * 2:15-2:30: **Benchmarking ultima ug100 reads for museum ants** - Homère Alves Monteiro, California Academy of Sciences
 * 2:30-2:45: **Uncovering the Dynamics of Population Structure Through Time Using Genome-Wide Genealogies** - Yun Deng, Pritchard Lab, Stanford University
