@@ -103,3 +103,4 @@ Thank you to the UC Davis [College of Biological Sciences](https://biology.ucdav
 * **Mitonuclear incompatibilities with a shared genetic basis differ in their effects on hybrid physiology** - Nemo Robles, Schumer Lab, Stanford University
 * **Reconstructing mutation patterns over the course of human evolution** - Yulin Zhang, Moorjani Lab, UC Berkeley
 * **Functional consequences of natural genetic variation** - Olivia Ghosh, Stanford University
+* **Towards Defining a Core Mouse Gut Microbiome** - Cassandra Olivas, Data Intensive Biology Lab, UC Davis
