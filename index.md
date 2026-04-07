@@ -47,7 +47,7 @@ Thank you to the UC Davis [College of Biological Sciences](https://biology.ucdav
 #### **9:30-10:30**: Talk Session 1 - Moderator: Natasha Dhamrait
 * 9:30-9:45: **Turnover and introgression shape the dynamic evolution of a sexual mimicry polymorphism shared across the genus Xiphophorus** - Tristram Dodge, Schumer Lab, Stanford University
 * 9:45-10:00: **Community coalescence reveals strong selection and coexistence within species in complex microbial communities** - Sophie Walton, Petrov and Good Labs, Stanford University
-* 10:00-10:15: **No Evidence for MHC-Based Mate Choice: Insights from a Natural Experiment in the Himba** - Gillian Meeks, UC Davis
+* 10:00-10:15: **No Evidence for MHC-Based Mate Choice: Insights from a Natural Experiment in the Himba** - Gillian Meeks, Henn Lab, UC Davis
 * 10:15-10:30: **Methylation Clocks Do Not Predict Age or Alzheimer's Disease Risk Across Genetically Admixed Individuals** - Sebastián Cruz-González, Capra Lab, UC San Francisco
 
 #### **10:30-11:10**: Coffee Break 
