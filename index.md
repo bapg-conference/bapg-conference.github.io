@@ -64,7 +64,7 @@ Thank you to the UC Davis [College of Biological Sciences](https://biology.ucdav
 
 #### **2:00-3:00**: Talk Session 3 - Moderator: Regina Fairbanks
 * 2:00-2:15: **Point cloud local ancestry inference (PCLAI): continuous coordinate-based ancestry along the genome** - Margarita Geleta, Ioannidis Lab, UC Berkeley
-* 2:15-2:30: **Benchmarking ultima ug100 reads for museum ants** - Homère Alves Monteiro, California Academy of Sciences
+* 2:15-2:30: **Comparative multi-omics uncovers cis-driven rewiring of biofilm regulatory network topology across Candida species** - Deepika Gunasekaran, Nobile Lab, UC Merced
 * 2:30-2:45: **Uncovering the Dynamics of Population Structure Through Time Using Genome-Wide Genealogies** - Yun Deng, Pritchard Lab, Stanford University
 * 2:45-3:00: **Linked selection drives allele frequency change in global evolution experiment** - Roberts Miles, Exposito-Alonso Lab, UC Berkeley
 
@@ -98,9 +98,7 @@ Thank you to the UC Davis [College of Biological Sciences](https://biology.ucdav
 * **Seasonally fluctuating selection drives repeatable allele frequency shifts across years in large genetically diverse populations** - Christopher Kirby, Petrov Lab, Stanford University
 * **Comparative genomic analyses shed light on the introduction routes of rice-pathogenic Burkholderia gladioli strains into Bangladesh** - Ismam Ahmed Protic, Alvarez-Ponce Lab, University of Nevada Reno
 * **Infrastructure for Genomics Analysis at Scale** - Syrine Ben Driss, Operon Technologies
-* **Substitution spectrum and selection at G-quadruplexes in great ape telomere-to-telomere genomes** - Xinru Zhang, Gladstone and Pollard Lab, UC San Francisco
 * **The Genomic Legacy of Neanderthal and Denisovan Ancestry Across 50,000 Years of Evolutionary History in East Asia** - Sophie Joseph, Moorjani Lab, UC Berkeley
 * **Mitonuclear incompatibilities with a shared genetic basis differ in their effects on hybrid physiology** - Nemo Robles, Schumer Lab, Stanford University
 * **Reconstructing mutation patterns over the course of human evolution** - Yulin Zhang, Moorjani Lab, UC Berkeley
-* **Functional consequences of natural genetic variation** - Olivia Ghosh, Stanford University
 * **Towards Defining a Core Mouse Gut Microbiome** - Cassandra Olivas, Data Intensive Biology Lab, UC Davis
