@@ -77,7 +77,6 @@ Thank you to the UC Davis [College of Biological Sciences](https://biology.ucdav
 * **Quantifying Anthropogenic Effects on Maize Genetic Diversity** - Samantha Snodgrass, Ross-Ibarra and Coop Labs, UC Davis
 * **Genotype specific transcriptomic responses to heat stress in Zostera marina** - Glyn Carson, Bay Lab, UC Davis
 * **One Nation Under a Groove: Ensemble Learning for Demographic Inference** - Ananya Kapoor, Kern-Ralph Colab, University of Oregon
-* **TEs in the “Metagenome”: A kmer based approach to estimate TE abundance from short reads** - Natasha Dhamrait, Ross-Ibarra Lab, UC Davis
 * **HLA–KIR Interaction and Active Tuberculosis Risk in Khoe-San Descent Populations** - Kristin Hardy, Henn Lab, UC Davis
 * **Catostomid genetics** - Johnathan Lo, Sudmant and Boots Labs, UC Berkeley
 * **Tissue Specific Mitochondrial DNA Mutational Landscapes in Humans, Mice, and Macaques** - Hannah Aguilar, UC Berkeley
